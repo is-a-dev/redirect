@@ -1,0 +1,15 @@
+{
+  "name": "redirect",
+  "version": "1.0.0",
+  "description": "Redirect service for is-a.dev &amp; Open-Domains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "andrewstech",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
